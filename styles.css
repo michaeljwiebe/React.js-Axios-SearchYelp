@@ -1,0 +1,18 @@
+body{
+    background-color: brown;
+}
+
+.business{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 350px;
+    border: 1px solid black;
+    margin: 10px;
+}
+.business-info-container{
+    min-width: 250px;
+}
+.business-info{
+    display: block;
+}
